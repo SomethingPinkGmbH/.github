@@ -1,3 +1,3 @@
 # Contributing to a Something Pink project
 
-If you would like to contribute code or text to any of our projects, please contact us using our [contact information](https://something.pink/contact/). For bug or typo reports and feature requests, please open an issue in the relevant repository - or start a [discussion](https://github.com/orgs/something-pink/discussions).
+If you would like to contribute code or text to any of our projects, please contact us using our [contact information](https://something.pink/contact/). For bug or typo reports and feature requests, please open an issue in the relevant repository - or start a [discussion](https://github.com/orgs/somethingpinkgmbh/discussions).
