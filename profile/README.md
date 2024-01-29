@@ -6,6 +6,14 @@ Welcome! We're a bootstrapped company founded by a married couple after spending
 
 In our past professional lives, we created, managed, and contributed to several well-known open source projects. Something Pink is our new avenue of adventure and creativity.
 
+### Games
+
+We will provide insight into the source code for our games with additional DLCs for those who are interested in studying the source code for personal use. More details on the licensing will be announced with our first game.
+
+### Broomrocket
+
+[Broomrocket](https://github.com/broomrocket) is a slowly evolving suite of ?-to-3D tools with a long-term mission and vision: **Broom goes vroom!**
+
 ### Community
 
 You can find us on [YouTube](https://www.youtube.com/@somethingpink) as well as on [Steam](https://store.steampowered.com/developer/somethingpink). If you prefer to engage with us on GitHub directly, you can participate in [discussions](https://github.com/orgs/somethingpinkgmbh/discussions) or open an issue in the relevant repository.
