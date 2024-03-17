@@ -8,7 +8,7 @@ In our past professional lives, we created, managed, and contributed to several 
 
 ### Games
 
-We will provide insight into the source code for our games with additional DLCs for those who are interested in studying the source code for personal use. More details on the licensing will be announced with our first game.
+Our [games](https://store.steampowered.com/developer/somethingpink) cover different genres and usually scratch a niche itch.
 
 ### Broomrocket
 
@@ -16,4 +16,4 @@ We will provide insight into the source code for our games with additional DLCs 
 
 ### Community
 
-You can find us on [YouTube](https://www.youtube.com/@somethingpink) as well as on [Steam](https://store.steampowered.com/developer/somethingpink). If you prefer to engage with us on GitHub directly, you can participate in [discussions](https://github.com/orgs/somethingpinkgmbh/discussions) or open an issue in the relevant repository.
+You can engage with us on [Steam](https://store.steampowered.com/developer/somethingpink) as well as directly on GitHub by participating in [discussions](https://github.com/orgs/somethingpinkgmbh/discussions) or opening an issue in the relevant repository.
